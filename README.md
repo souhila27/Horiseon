@@ -9,7 +9,7 @@ A website for marketing agency that offers marketiong services.
 
 ## Website
 
- https://github.com/souhila27/Horiseon.git
+https://souhila27.github.io/Horiseon/
 
 
 
